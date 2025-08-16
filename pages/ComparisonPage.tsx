@@ -3,7 +3,7 @@ import React from 'react';
 import type { Product, PriceHistoryPoint, Offer } from '../types';
 import PriceHistoryChart from '../components/PriceHistoryChart';
 import { JumiaLogo, KongaLogo, SlotLogo, PointekLogo } from '../components/icons/RetailerLogos';
-import ValueScore from '../components/ValueScore';
+import ValueScore from '../ValueScore';
 
 interface ComparisonPageProps {
   product: Product;

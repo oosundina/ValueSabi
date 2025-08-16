@@ -1,7 +1,7 @@
 
 import React from 'react';
 import type { Product } from '../types';
-import ValueScore from './ValueScore';
+import ValueScore from '../ValueScore';
 
 interface ProductCardProps {
   product: Product;
