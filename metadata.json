@@ -1,0 +1,5 @@
+{
+  "name": "ValueSabi",
+  "description": "An intelligent product comparison app that calculates a 'Value Score' to help users find the best deals based on price, specs, ratings, and more, not just the lowest price. Slogan: Don't just find the price. Sabi the value.",
+  "requestFramePermissions": []
+}
